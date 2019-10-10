@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  background-color: #eaeaea;
+}
+
+h1#h {
+  background-color: #808080;
+  color: white;
+  text-align: center;
+}
+h1#hh {
+  background-color: #808080;
+  color: white;
+}
+h2#hhh{
+  color: #000000;
+}
+h2#hhhh{
+  background-color: #708090;
+  color: #FFFFFF;
+}
+
+.wrapper {
+  background-color: #DCDCDC;
+}
+
+.row {
+  border: 1px solid #778899	;
+}
+
+.column {
+  border: 1px solid #708090;
+}
